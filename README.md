@@ -1,3 +1,7 @@
+# This project is inpired from "How to build a Portfolio Website with React" by Reed Barger from https://www-freecodecamp-org
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
